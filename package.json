@@ -1,0 +1,23 @@
+{
+  "name": "promisefs",
+  "version": "0.0.1",
+  "description": "Promisie wrapper around the Build in Node FS System using the native promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codydaig/promisefs.git"
+  },
+  "keywords": [
+    "promise",
+    "fs"
+  ],
+  "author": "Cody B. Daig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codydaig/promisefs/issues"
+  },
+  "homepage": "https://github.com/codydaig/promisefs#readme"
+}
