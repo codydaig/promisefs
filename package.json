@@ -1,6 +1,6 @@
 {
   "name": "promisefs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Promisie wrapper around the Build in Node FS System using the native promises",
   "main": "index.js",
   "scripts": {
